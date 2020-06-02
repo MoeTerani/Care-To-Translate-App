@@ -1,5 +1,9 @@
 # CTT-Educate
 
+## 📱 Demo
+
+[![CTT-Educate](https://github.com/MoeTerani/Care-To-Translate-App/blob/master/assets/images/Screenshot%202020-06-02%20at%2011.47.59.jpg)](https://youtu.be/9rORnvH1q2E)
+
 ## 🖥 Live Demo 🚫
 
 Since the data that was used in this application cannot be shared publicy , it has been removed from the public repository, so having a working application was not possible.
