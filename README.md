@@ -11,7 +11,13 @@ Since the data that was used in this application cannot be shared publicly, it h
 [Care to translate](https://caretotranslate.com/) was developing Ux for a new app, and they wanted to do under the working name “Care to Translate - Educate,” which will serve as a tool for healthcare professionals who want to learn medical terms in other languages.
 They wanted to create the first version of the app (written in React-Native with Typescript).
 
-## 👨‍💻 Tech stack
+## 👨🏻‍💻👨🏻‍💻👨🏻‍💻 Team
+
+- Moe Terani
+- Robin Ribaric
+- Soroush Sajadi
+
+## 🏗 Tech stack
 
 - EXPO
 - TypeScript
@@ -26,7 +32,7 @@ As mentioned above, the data is missing. But in case of having access to dummy d
 
 - start by running `npm i` and then `npm start`.
 
-## 🏗️ Further Development
+## 🚧 Further Development
 
 - Implementing three more logic to tests.
 - Finalizing the data structure.
